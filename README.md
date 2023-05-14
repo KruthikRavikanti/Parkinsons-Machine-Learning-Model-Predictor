@@ -13,6 +13,6 @@ drawings.zip
 
 This is the folder where the data set is ever-changing after a user uses the application every time. At the current rate, the accuracy is about 86% which is staying stable. Through more training and more data points, it is likely that this number could go higher. 
 
-Video Walkthrough on Using this Application
+Video Walkthrough on Using this Application:
 
 https://youtu.be/y7RCFho4Aac
