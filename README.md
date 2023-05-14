@@ -16,3 +16,5 @@ This is the folder where the data set is ever-changing after a user uses the app
 Video Walkthrough on Using this Application:
 
 https://youtu.be/y7RCFho4Aac
+
+Created by Erik Li and Kruthik Ravikanti
